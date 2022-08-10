@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rubik Dirt';
+    src: url('./Fuentes/RubikDirt-Regular.ttf');
+}
+
+.titulo1 {
+    font-family: 'Rubik Dirt';
+} 
+
+
+.titulo2 {
+    font-family: 'Alumni Sans Inline One', cursive;
+}
