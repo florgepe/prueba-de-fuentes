@@ -5,9 +5,17 @@
 
 .titulo1 {
     font-family: 'Rubik Dirt';
+    font-weight: 100;
 } 
 
 
 .titulo2 {
-    font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'Alumni Sans Inline One';
+    font-weight: 100;
+    font-style: italic;
+    letter-spacing: 4px;
+}
+
+.titulo3 {
+    text-decoration: underline red;
 }
